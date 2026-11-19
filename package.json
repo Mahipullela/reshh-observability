@@ -1,0 +1,12 @@
+{
+  "name": "reshh-observability",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first infrastructure monitoring and incident management",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
